@@ -3,8 +3,8 @@
 <p align="center">This is an application to save your favorities repositories from Github.<p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61663376/149262481-4b34d5fb-cbd3-4d52-b2c2-c40c7e05c645.png" width="450px" />
-  <img src="https://user-images.githubusercontent.com/61663376/149262559-6a97cd4e-3930-4556-b4f6-0df3b4a21c00.png" width="450px" />
+  <img src="https://user-images.githubusercontent.com/61663376/149262481-4b34d5fb-cbd3-4d52-b2c2-c40c7e05c645.png" width="40%" />
+  <img src="https://user-images.githubusercontent.com/61663376/149262559-6a97cd4e-3930-4556-b4f6-0df3b4a21c00.png" width="40%" />
 </div>
 
 ## Tech

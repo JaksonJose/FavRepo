@@ -1,0 +1,22 @@
+{
+  "All": "Todas",
+  "Close": "cesadas",
+  "Open": "Abiertas",
+  "My-Repositories": "Mis Repositorios",
+  "Add-Repositories": "Agregar repositorios",
+  "loading": "Cargando...",
+  "next": "Siguiente",
+  "back": "Regresar",
+  "English": {
+    "name": "Inglés",
+    "short": "en"
+  },
+  "Spanish": {
+    "name": "Español",
+    "short": "es"
+  },
+  "Portuguese": {
+    "name": "Portugués",
+    "short": "pt"
+  }
+}

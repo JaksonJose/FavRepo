@@ -1,0 +1,22 @@
+{
+  "All": "All",
+  "Close": "Close",
+  "Open": "Open",
+  "My-Repositories": "My Repositories",
+  "Add-Repositories": "Add Repositories",
+  "Loading": "Loading...",
+  "Next": "Next",
+  "Back": "Back",
+  "English": {
+    "name": "English",
+    "short": "en"
+  },
+  "Spanish": {
+    "name": "Spanish",
+    "short": "es"
+  },
+  "Portuguese": {
+    "name": "Portuguese",
+    "short": "pt"
+  }
+}
